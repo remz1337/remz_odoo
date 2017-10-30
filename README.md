@@ -1,2 +1,2 @@
 # remz_odoo
-public repo for various Odoo tool (v10)
+public repo for various Odoo tools (v10)
