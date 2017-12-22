@@ -16,7 +16,7 @@
     "init_xml" : [],
     "demo_xml" : [],
         "data" : [
-        'views/color_change.xml',
+        'views/theme_christmas.xml',
     ],
     "test" : [
     ],

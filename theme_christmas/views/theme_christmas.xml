@@ -3,13 +3,13 @@
 
     <template id="less_helpers" name="web_enterprise less helpers" inherit_id="web_enterprise.less_helpers" priority='15'>
         <xpath expr="//link[@href='/web_enterprise/static/src/less/variables.less']" position="replace">
-            <link rel="stylesheet" type="text/less" href="/theme_christmas/static/src/less/variables.less"/>
+            <link rel="stylesheet" type="text/less" href="/theme_christmas/static/src/less/theme_christmas.less"/>
         </xpath>
     </template>
 
     <template id="assets_frontend_color_change" inherit_id="web_enterprise.assets_backend"> 
         <xpath expr="." position="inside">
-            <link rel="stylesheet" href="/theme_christmas/static/src/css/color_change.css"/>
+            <link rel="stylesheet" href="/theme_christmas/static/src/css/theme_christmas.css"/>
         </xpath>
     </template>
 
